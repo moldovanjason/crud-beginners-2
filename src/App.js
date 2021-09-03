@@ -9,7 +9,7 @@ function App() {
         <label htmlFor="">Movie Name:</label>
         <input type="text" name="movieName" placeholder="" />
         <label >Movie Review:</label>
-        <input type="text" name="review" placeholder="" />
+        <input name="review" placeholder="" />
         <button>Submit</button>
       </div>
     </div>
