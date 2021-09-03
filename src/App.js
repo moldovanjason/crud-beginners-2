@@ -7,7 +7,7 @@ function App() {
 
       <div className="form">
         <label htmlFor="">Movie Name:</label>
-        <input type="text" name="movieName" placeholder="" />
+        <input name="movieName" placeholder="" />
         <label >Movie Review:</label>
         <input name="review" placeholder="" />
         <button>Submit</button>
