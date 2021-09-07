@@ -1,3 +1,3 @@
 Another little project for now to imporve my coding skills.
 
-create, read, update and delete app.
+create, read, update and delete application.
